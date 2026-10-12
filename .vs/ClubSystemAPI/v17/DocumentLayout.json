@@ -1,0 +1,708 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\dtos\\booking\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\dtos\\booking\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\dtos\\facility\\createfacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\dtos\\facility\\createfacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\dtos\\facility\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\dtos\\facility\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\dtos\\member\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\dtos\\member\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\dtos\\member\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\dtos\\member\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\dtos\\payment\\createpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\dtos\\payment\\createpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\dtos\\payment\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\dtos\\payment\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\mapping\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\mapping\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\mapping\\facilityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\mapping\\facilityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\mapping\\paymentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\mapping\\paymentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\mapping\\membershipprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\mapping\\membershipprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\mapping\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\mapping\\memberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\unit of work\\implementation\\uof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\unit of work\\implementation\\uof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\models\\membermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\models\\membermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\models\\facilitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\models\\facilitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\interface\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\interface\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\unit of work\\interface\\iuof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\unit of work\\interface\\iuof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\general\\interface\\igeneralrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\general\\interface\\igeneralrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\general\\implementation\\generalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\general\\implementation\\generalrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\interface\\ipaymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\interface\\ipaymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\interface\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\interface\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\implementation\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\implementation\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\interface\\ifacilityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\interface\\ifacilityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\interface\\imembershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\interface\\imembershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\implementation\\membershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\implementation\\membershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\implementation\\facilityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\implementation\\facilityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\implementation\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\implementation\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\repos\\custom\\implementation\\paymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\repos\\custom\\implementation\\paymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Migrations\\20261012083137_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClubSystemAPI\\Migrations\\20261012083137_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|c:\\users\\magdy.mansour\\source\\repos\\clubsystemapi\\clubsystemapi\\models\\membershipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C241927-F2F6-4484-BE3B-F0C7BC3EB503}|ClubSystemAPI\\ClubSystemAPI.csproj|solutionrelative:clubsystemapi\\models\\membershipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacilityController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\FacilityController.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Controllers\\FacilityController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\FacilityController.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Controllers\\FacilityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:38:36.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembershipController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\MembershipController.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Controllers\\MembershipController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\MembershipController.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Controllers\\MembershipController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:39:03.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:38:50.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:38:23.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:39:15.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Booking\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\DTOs\\Booking\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Booking\\BookingDTO.cs",
+              "RelativeToolTip": "ClubSystemAPI\\DTOs\\Booking\\BookingDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:01:00.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "RelativeToolTip": "ClubSystemAPI\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:01:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateFacilityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Facility\\CreateFacilityDTO.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\DTOs\\Facility\\CreateFacilityDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Facility\\CreateFacilityDTO.cs",
+              "RelativeToolTip": "ClubSystemAPI\\DTOs\\Facility\\CreateFacilityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:58:14.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacilityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Facility\\FacilityDTO.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\DTOs\\Facility\\FacilityDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Facility\\FacilityDTO.cs",
+              "RelativeToolTip": "ClubSystemAPI\\DTOs\\Facility\\FacilityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:58:02.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMemberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Member\\CreateMemberDTO.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\DTOs\\Member\\CreateMemberDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Member\\CreateMemberDTO.cs",
+              "RelativeToolTip": "ClubSystemAPI\\DTOs\\Member\\CreateMemberDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:05:26.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Member\\MemberDTO.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\DTOs\\Member\\MemberDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Member\\MemberDTO.cs",
+              "RelativeToolTip": "ClubSystemAPI\\DTOs\\Member\\MemberDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:05:58.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Payment\\CreatePaymentDTO.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\DTOs\\Payment\\CreatePaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Payment\\CreatePaymentDTO.cs",
+              "RelativeToolTip": "ClubSystemAPI\\DTOs\\Payment\\CreatePaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:55:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Payment\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\DTOs\\Payment\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\DTOs\\Payment\\PaymentDTO.cs",
+              "RelativeToolTip": "ClubSystemAPI\\DTOs\\Payment\\PaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:07:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacilityProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\FacilityProfile.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Mapping\\FacilityProfile.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\FacilityProfile.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Mapping\\FacilityProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:27:40.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\PaymentProfile.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Mapping\\PaymentProfile.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\PaymentProfile.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Mapping\\PaymentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:27:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MembershipProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\MembershipProfile.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Mapping\\MembershipProfile.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\MembershipProfile.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Mapping\\MembershipProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:27:28.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\BookingProfile.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Mapping\\BookingProfile.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\BookingProfile.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Mapping\\BookingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:25:16.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Models\\PaymentModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\PaymentModel.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Models\\PaymentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:55:43.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MemberProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\MemberProfile.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Mapping\\MemberProfile.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Mapping\\MemberProfile.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Mapping\\MemberProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:25:29.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookingModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\BookingModel.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Models\\BookingModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\BookingModel.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Models\\BookingModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:55:35.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Program.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:28:41.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UOF.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Unit Of Work\\Implementation\\UOF.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Unit Of Work\\Implementation\\UOF.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Unit Of Work\\Implementation\\UOF.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Unit Of Work\\Implementation\\UOF.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:33:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemberModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\MemberModel.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Models\\MemberModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\MemberModel.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Models\\MemberModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:54:18.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FacilityModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\FacilityModel.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Models\\FacilityModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\FacilityModel.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Models\\FacilityModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:54:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IMemberRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Interface\\IMemberRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IMemberRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Interface\\IMemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:42:52.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IGeneralRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\General\\Interface\\IGeneralRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\General\\Interface\\IGeneralRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\General\\Interface\\IGeneralRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\General\\Interface\\IGeneralRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:18:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUOF.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Unit Of Work\\Interface\\IUOF.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Unit Of Work\\Interface\\IUOF.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Unit Of Work\\Interface\\IUOF.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Unit Of Work\\Interface\\IUOF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:33:03.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GeneralRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\General\\Implementation\\GeneralRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\General\\Implementation\\GeneralRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\General\\Implementation\\GeneralRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\General\\Implementation\\GeneralRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:13:18.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IPaymentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IPaymentRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Interface\\IPaymentRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IPaymentRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Interface\\IPaymentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:43:59.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IBookingRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Interface\\IBookingRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IBookingRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Interface\\IBookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:43:08.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Implementation\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\BookingRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Implementation\\BookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:45:54.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFacilityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IFacilityRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Interface\\IFacilityRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IFacilityRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Interface\\IFacilityRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:43:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IMembershipRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IMembershipRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Interface\\IMembershipRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Interface\\IMembershipRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Interface\\IMembershipRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:43:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MembershipRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\MembershipRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Implementation\\MembershipRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\MembershipRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Implementation\\MembershipRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:46:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FacilityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\FacilityRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Implementation\\FacilityRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\FacilityRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Implementation\\FacilityRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:46:33.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Implementation\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\MemberRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Implementation\\MemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:46:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaymentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\PaymentRepo.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Repos\\Custom\\Implementation\\PaymentRepo.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Repos\\Custom\\Implementation\\PaymentRepo.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Repos\\Custom\\Implementation\\PaymentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:46:58.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Context\\MyContext.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Context\\MyContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:15:50.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20261012083137_init.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Migrations\\20261012083137_init.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Migrations\\20261012083137_init.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Migrations\\20261012083137_init.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Migrations\\20261012083137_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:31:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MembershipModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\MembershipModel.cs",
+              "RelativeDocumentMoniker": "ClubSystemAPI\\Models\\MembershipModel.cs",
+              "ToolTip": "C:\\Users\\Magdy.Mansour\\source\\repos\\ClubSystemAPI\\ClubSystemAPI\\Models\\MembershipModel.cs",
+              "RelativeToolTip": "ClubSystemAPI\\Models\\MembershipModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:54:27.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
